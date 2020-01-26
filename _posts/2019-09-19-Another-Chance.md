@@ -23,16 +23,16 @@ Below are the Tasks that I attempted this past week:)
 **Task 5 : Get it using Javascript**<br>
 This is the task that I was stuck at for 4-5 days. That would be because I was initially trying to do this task using java. However it was only after my mentor told me that they are two entirely different languages that I realised that I was going in a very different direction. Had I been in my room, I would have realised that a bit later, and hence, would have lost more time. So i first learnt about what i graphQL , what are queries , mutations,etc. Then I search about queries that search for users. Having written that, I wrote the script.js file and then tried to link the html and js file. However, when I opened the wbpage it was showing errors. I tried removing them, rewote my code but in vain. Because of this, the task got dragged on for days. So, I started doing the next task related to javascript.
 
-Link : <a href="https://github.com/sash2501/amfoss-tasks/tree/master/task-5">Follow Me</a>
+Link : <a href="https://github.com/sash2501/amfoss-tasks/tree/master/task%205">Follow Me</a>
 
 **Task 11: The Pong Game**<br>
 Prior to this task, I had no clue what a pong game really meant.However after trying task 5 for many days, I had understood how a javascript file really works. I learnt the uses of various javascript functions like addEventListener, requestAnimation frame, etc. I watched youtube videos of how the pong game works and referred it to try this task.
 <b>Blockers : </b><br>
 I first tried to move one player using keys, however, that didn't work out. So player one follows the mouse. Player two follows the ball. So, it is still a single player and offline game:(
 
-Link : <a href="https://github.com/sash2501/amfoss-tasks/tree/master/task-11">Follow Me</a>
+Link : <a href="https://github.com/sash2501/amfoss-tasks/tree/master/task%2011">Follow Me</a>
 
 **Task 13 : Project Euler**<br>
 I didn't try this task earlier thinking that it would some complecated maths problem. However, after trying it out, I realised that I was wrong. I have used c++ to solve these problems
 
-Link : <a href="https://github.com/sash2501/amfoss-tasks/tree/master/task-13">Follow Me</a>
+Link : <a href="https://github.com/sash2501/amfoss-tasks/tree/master/task%2013">Follow Me</a>
