@@ -13,3 +13,16 @@ Living in Kerala, in the southern part of India where it rarely get cold even in
 Bundled in layers of sweater, I made my way to where the event was being held, Maharaja Agrasen Institute of Technology, which was a few minutes walk from my hotel. The attendees were handed the schedule for the the three days and ID cards.
 True to the planned schedule the talks started at 11 am sharp.
 <br>
+Bhushan Shah, a KDE developer, began the session with an introductory talk about KDE and the Indian community. We were told about the past conf.kde.in held in India. 
+<br>
+Then Kannan VM, a developer from Kerala talked about how he and his team had helped the Kerela newspaper daily, Janayugom, to FOSS. They worked to make a separate OS that uses open source applications. Workshops were then conducted by them to train the newspaper employees on how to use of the OS.
+<br>
+Next up was the talk by Wrishiraj Kaushik, the CEO of Libresoft. He gave a talk about Open source contribution in Indian context. It was a helpful talk that covered the financial aspect of open source development.He kept the attendees entertained by sharing anecdotes and his experiences in his journey to open source contribution.
+<br>
+Many attendees who were unaware of the concept of FOSS and open source projects were enlightened by a talk about the 
+The day concluded with a workshop on how to make a basic Qt quick application using cmake. It was a very helpful session for the open source newbies like me who were attending the conference.
+
+## Day Two : 18 January
+
+
+## Day Three : 19 January
