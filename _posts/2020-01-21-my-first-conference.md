@@ -21,6 +21,7 @@ Then Kannan VM, a developer from Kerala talked about how he and his team had hel
 <br>
 Next up was the talk by Wrishiraj Kaushik, the CEO of Libresoft. He gave a talk about Open source contribution in Indian context. It was a helpful talk that covered the financial aspect of open source development.He kept the attendees entertained by sharing anecdotes and his experiences in his journey to open source contribution.
 <br>
+Piyush Aggarwal the went on to talk about KDE Connect, its advantages and the work that is currently being done on it.He also showed how his laptop and phone were connected with the help of KDE Connect.<br>
 Many attendees who were unaware of the concept of FOSS and open source projects were enlightened by a talk about the 
 The day concluded with a workshop on how to make a basic Qt quick application using cmake. It was a very helpful session for the open source newbies like me who were attending the conference.
 
@@ -30,5 +31,12 @@ The day started with a session on use of qml in kde applications by Shantanu Tus
 Arjen Hiemstra then talked about the process of using QtQuick Scene Graph. The scene graph is a graphical representation of the Item scene. The talk was quite informative and I came to know about of lot of new stuff through it.<br>
 Adriaan de Groot, who is the maintainer for Calamares briefly talked about his work on Calamares and the recent work on translating it to regional languages. There has been a lot of focus lately on translating Calamares and making it more accessible for people.<br>
 Subin Siby from Swathanthra Malayalam Computing then talked about KDE in Kerala. He talked about how the open source contributions started in the state and his work on translating Calamares in Malayalam using unicode.<br>
-Finally, the day ended with a workshop by Shantanu and Bhushan on using qml to make a qt application.
+Finally, the day ended with a workshop by Shantanu and Bhushan on using qml and kirigami to make a qt application.
 ## Day Three : 19 January
+The final day had a few changes in the schedule. Since a few SoK students like me were attending the conference, the organisers requsted us to give a talk about our Season of KDE projects later that day. Since this was the first time I was attending a conference, the idea of speaking in front of a bunch of experienced developers was rather intimidating, but I after encouragement, I agreed to speak about my project.<br>
+So, the day started with a talk about by Rituka Patwal,a GSOC student, who had worked with plasma mobile developers. She talked about digital security and Plasma Mobile's approach to solve or rather prevent it. <br>
+Anupam Basak talked about the ongoing work on the MAUI project. He explained the use of the MAUIkit and the MAUI application. He also demonstrated the working of the application from his system. I found the project really cool. It has amazing graphics and user friendly file management system.<br>
+Adriaan then gave a short talk on some of the major KDE Frameworks, their uses and importance in KDE applications.
+He later on gave a detailed talk on the one of the KDE Frameworks - the KMacroExpander. This framework is very handy in using macros in large code bases.<br>
+After his talk, I, along with four other SoK students went on to talk about our respective projects. It was interesting to hear about their journey with contributing to KDE.<br>
+Finally the conference ended with a workshop on how to resolve cmake and make errors and how to build a kirigami application.
