@@ -25,6 +25,10 @@ Many attendees who were unaware of the concept of FOSS and open source projects 
 The day concluded with a workshop on how to make a basic Qt quick application using cmake. It was a very helpful session for the open source newbies like me who were attending the conference.
 
 ## Day Two : 18 January
-
-
+Day two started with the same vigour as the previous day. Only difference was that I had become familiar with the speakers who were going to give a talk that day.
+The day started with a session on use of qml in kde applications by Shantanu Tushar. He showed some interesting ways in which qml can be used to add different ui components in a basic Qt application.
+Arjen Hiemstra then talked about the process of using QtQuick Scene Graph. The scene graph is a graphical representation of the Item scene. The talk was quite informative and I came to know about of lot of new stuff through it.
+Adriaan de Groot, who is the maintainer for Calamares briefly talked about his work on Calamares and the recent work on translating it to regional languages. There has been a lot of focus lately on translating Calamares and making it more accessible for people.
+Subin Siby from Swathanthra Malayalam Computing then talked about KDE in Kerala. He talked about how the open source contributions started in the state and his work on translating Calamares in Malayalam using unicode.
+Finally, the day ended with a workshop by Shantanu and Bhushan on using qml to make a qt application.
 ## Day Three : 19 January
