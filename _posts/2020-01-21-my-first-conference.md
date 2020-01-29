@@ -39,4 +39,5 @@ Anupam Basak talked about the ongoing work on the MAUI project. He explained the
 Adriaan then gave a short talk on some of the major KDE Frameworks, their uses and importance in KDE applications.
 He later on gave a detailed talk on the one of the KDE Frameworks - the KMacroExpander. This framework is very handy in using macros in large code bases.<br>
 After his talk, I, along with four other SoK students went on to talk about our respective projects. It was interesting to hear about their journey with contributing to KDE.<br>
-Finally the conference ended with a workshop on how to resolve cmake and make errors and how to build a kirigami application.
+Finally the conference ended with a workshop on how to resolve cmake and make errors and how to build a kirigami application.<br>
+![topview]({{ "assets/img/kdeconf/topview.jpg" | relative_url }})
