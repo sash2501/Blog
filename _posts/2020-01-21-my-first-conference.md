@@ -32,7 +32,8 @@ Arjen Hiemstra then talked about the process of using QtQuick Scene Graph. The s
 Adriaan de Groot, who is the maintainer for Calamares briefly talked about his work on Calamares and the recent work on translating it to regional languages. There has been a lot of focus lately on translating Calamares and making it more accessible for people.<br>
 Subin Siby from Swathanthra Malayalam Computing then talked about KDE in Kerala. He talked about how the open source contributions started in the state and his work on translating Calamares in Malayalam using unicode.<br>
 Finally, the day ended with a workshop by Shantanu and Bhushan on using qml and kirigami to make a qt application.
-## Day Three : 19 January
+## Day Three : 19 January 
+![talk]({{ "assets/img/kdeconf/talk.jpg" | relative_url }}) <br>
 The final day had a few changes in the schedule. Since a few SoK students like me were attending the conference, the organisers requested us to give a talk about our Season of KDE projects later that day. Since this was the first time I was attending a conference, the idea of speaking in front of a bunch of experienced developers was rather intimidating, but after encouragement, I agreed to speak about my project.<br>
 So, the day started with a talk by Rituka Patwal,a GSOC student, who had worked with plasma mobile developers. She talked about digital security and Plasma Mobile's approach to solve or rather prevent it. <br>
 Anupam Basak talked about the ongoing work on the MAUI project. He explained the use of the MAUIkit and the MAUI application. He also demonstrated the working of the application from his system. I found the project really cool. It has amazing graphics and a user friendly file management system.<br>
