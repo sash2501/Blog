@@ -52,7 +52,7 @@ On searching, I found that definition.h contains the Producer enumeration which 
 I added the function that would first check whether a clip in the timeline is of title type or not, then would assign the color that was decided by the community for the title clips.
 
 
-![talk]({{ "assets/img/sok/oldtitle.jpg" | relative_url }})
+![talk]({{ "assets/img/sok/oldtitle.png" | relative_url }})
 
 #### Week 3: Hardcoding the colors is a big No-No
 
@@ -61,7 +61,7 @@ Nowadays every application has different themes according to the user’s conven
 However, the color chosen for title clips was not a default Role in the KColorScheme and could be composed by mixing different default ones. Meanwhile, I worked on adding a function to check whether the clip is of image type image clip and then added Neutral color of the ForegroundRole of KColorScheme class to the Image clip (see below).
 
 
-![imageclip]({{ "assets/img/sok/imagecolor.jpg" | relative_url }})
+![imageclip]({{ "assets/img/sok/imagecolor.png" | relative_url }})
 <br>
 Neutral color added to Image clip
 
@@ -113,14 +113,12 @@ I also gave a lightning talk about my Season of KDE project for Kdenlive. Since 
 
 
 
-
-![talk](assets/img/sok/talk.jpg "talk")
-
+![talk]({{ "assets/img/sok/talk.jpg" | relative_url }})
 
 
 
 
-![top view](assets/img/kdeconf/topview.jpg "top_view")
+![top_view]({{ "assets/img/kdeconf/topview.jpg" | relative_url }})
 
 
 
