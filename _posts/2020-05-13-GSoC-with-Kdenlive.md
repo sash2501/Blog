@@ -1,7 +1,7 @@
 ---
 title: "GSoC with Kdenlive"
 author: Sashmita Raghav
-date: 2020-05-13 18:00:00 +0530
+date: 2020-05-13 17:40:00 +0530
 categories: [Blogging]
 tags: [kde,gsoc]
 ---
@@ -31,7 +31,7 @@ This summer I plan to work on achieving support for basic Subtitle customization
 I will be updating my progress with the project throughout the summer in upcoming blogs and the KDE work report page.
 <br><br>
 **Link to my project**: [https://summerofcode.withgoogle.com/projects/#6465764850139136](https://summerofcode.withgoogle.com/projects/#6465764850139136)
-<br><br>
+<br>
 **Work Report**: [https://community.kde.org/GSoC/2020/StatusReports/SashmitaRaghav](https://community.kde.org/GSoC/2020/StatusReports/SashmitaRaghav)
 <br><br>
 Finally, I would love to express my gratitude to amFOSS, my college student community that has been the guiding light and a constant source of support throughout my journey.
