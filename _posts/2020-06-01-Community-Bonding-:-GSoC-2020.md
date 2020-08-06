@@ -31,11 +31,11 @@ I went through the code base of Kdenlive to understand how the Subtitle effect i
 
 Now that I have better clarity on different aspects of the implementation, I am looking forward to a productive coding period 😀
 
-**Project Overview:** https://summerofcode.withgoogle.com/projects/#6465764850139136
+**Project Overview:** [https://summerofcode.withgoogle.com/projects/#6465764850139136](summerofcode.withgoogle.com/projects/#6465764850139136)
 
-**Project Status:** https://community.kde.org/GSoC/2020/StatusReports/SashmitaRaghav
+**Project Status:** [https://community.kde.org/GSoC/2020/StatusReports/SashmitaRaghav](community.kde.org/GSoC/2020/StatusReports/SashmitaRaghav)
 
-**GitLab:** https://invent.kde.org/multimedia/kdenlive/-/issues/666
+**GitLab:** [https://invent.kde.org/multimedia/kdenlive/-/issues/666](invent.kde.org/multimedia/kdenlive/-/issues/666)
 
 Stay safe and stay tuned to my progress in upcoming posts.
 
