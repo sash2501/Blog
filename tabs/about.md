@@ -1,5 +1,5 @@
 ---
-title: About
+title: About Me
 
 # The About page
 # v2.0
@@ -8,4 +8,6 @@ title: About
 # MIT License
 ---
 
-> **Note**: Add Markdown syntax content to file `tabs/about.md` and it will show up on this page.
+I am Sashmita Raghav, a second-year undergraduate student pursuing my B. Tech degree in Computer Science with a specialization in Artificial Intelligence from Amrita Vishwa Vidyapeetham, Kerala, India.
+
+I consider books to be my closest friends, preferably fictional ones, that act as my escape from the harsh realities of life. I am a proud Dauntless and consider myself to be a member of the Gryffindor House.
